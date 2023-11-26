@@ -12,6 +12,7 @@ class Persona extends Model
     protected $table="persona";
 
     //creacion tabla persona
+    //segundo cambio
 
     protected $filtable = [
         'nombre',
