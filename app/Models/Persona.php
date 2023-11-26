@@ -14,7 +14,7 @@ class Persona extends Model
     //creacion tabla persona
     //comentario diferente
 
-    protected $filtable = [
+    protected $fillable = [
         'nombre',
         'direccion',
         'telefono'
