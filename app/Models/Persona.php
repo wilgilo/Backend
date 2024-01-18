@@ -1,5 +1,6 @@
 <?php
 
+//Persona
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
